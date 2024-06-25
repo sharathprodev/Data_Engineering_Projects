@@ -1,0 +1,41 @@
+Spark / pyspark / Databricks Intevriew Questions
+
+1. Describe the PySpark architecture.
+2. What are RDDs in PySpark?
+3. Explain the concept of lazy evaluation in PySpark.
+4. How does PySpark differ from Apache Hadoop?
+5. What are DataFrames in PySpark?
+6. How do you initialize a SparkSession?
+7. What is the significance of the SparkContext?
+8. Describe the types of transformations in PySpark.
+9. What is Azure Databricks.
+10. Explain the role of Apache Spark in Azure Databricks.
+11. How do you configure a Spark cluster in Azure Databricks?
+12. What are the advantages of using PySpark in Azure Databricks for data processing?
+13. Describe the concept of notebooks in Azure Databricks.
+14. How do Azure Databricks workspaces enhance collaboration?
+15. What is the Databricks File System (DBFS), and how is it used?
+16. How do you schedule jobs in Azure Databricks?
+17. Explain the significance of Delta Lake in Azure Databricks.
+18. How do you read a CSV file into a PySpark DataFrame?
+19. What are actions in PySpark, and how do they differ from transformations?
+20. How can you filter rows in a DataFrame?
+21. Explain how to perform joins in PySpark.
+22. How do you aggregate data in PySpark?
+23. What are UDFs (User Defined Functions), and how are they used?
+24. How can you handle missing or null values in PySpark?
+25. How do you repartition a DataFrame, and why?
+26. Describe how to cache a DataFrame. Why is it useful?
+27. How do you save a DataFrame to a file?
+28. What is the Catalyst Optimizer?
+29. Explain the concept of partitioning in PySpark.
+30. How can broadcast variables improve performance?
+31. What are accumulators, and how are they used?
+32. Describe strategies for optimizing PySpark jobs.
+33. What is the significance of the Tungsten execution engine?
+34. How does PySpark handle data skewness?
+35. What are the best practices for managing memory in PySpark?
+36. How can you monitor the performance of a PySpark application?
+38. Explain how checkpointing works in PySpark.
+39. What is delta lake
+40. What is data lakehouse architecture.
